@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BitCoinManager0118</string>
+    <string name="title_home">Main</string>
+    <string name="title_dashboard">BookMark</string>
+    <string name="title_notifications">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="coinone_api_name">BitCoinManager0118</string>
+    <string name="coinone_api_accesstoken">65cb28c8-43a5-4a68-9702-52d199b140cc</string>
+    <string name="coinone_api_secretkey">b8b05a05-bc9a-45e3-86b6-ef575bc3241e</string>
+</resources>
