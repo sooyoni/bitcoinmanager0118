@@ -5,4 +5,5 @@ package com.bitcoinmanager0118.bitcoinmanager0118.APIManager;
  */
 
 public class MainApi {
+    String a;
 }
